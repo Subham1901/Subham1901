@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Subham1901
-- 👀 I’m interested in java programs
-- 🌱 I’m currently learning java and MYSQL
-- 💞️ I’m uploading basic programs by java
+- 👀  I am passionate about Android Development,java programming,MySQL.
 - Thank you!!
 
 <!---

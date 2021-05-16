@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subham1901
-- 👀  I am passionate about Android Development,flutter development ,java,dart,MySQL.
+- 👀 I am passionate about Android,flutter development ,java,dart,MySQL.
 - Thank you!!
 
 <!---

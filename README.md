@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham1901&label=Profile%20views&color=0e75b6&style=flat" alt="subham1901" /> </p>
 
-- 🔭 I’m currently working on **Swiggy Clone**
+- 🔭 I’m currently working on **Swiggy Clone** (https://github.com/Subham1901/namaste_react_code/tree/master/Chapter-4%20coding)
 
 - 🌱 I’m currently learning **Redux, Firebase, AWS**
 

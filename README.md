@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham1901&label=Profile%20views&color=0e75b6&style=flat" alt="subham1901" /> </p>
 
-- 🔭 I’m currently working on **Swiggy Clone** (https://movie-application-s6ln.onrender.com/)
+- 🔭 I’m currently working on **Filmy - A movie application** (https://movie-application-s6ln.onrender.com/)
 
 - 🌱 I’m currently learning **Redux-Saga, Firebase, AWS**
 

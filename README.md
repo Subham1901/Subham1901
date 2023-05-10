@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham1901&label=Profile%20views&color=0e75b6&style=flat" alt="subham1901" /> </p>
 
-- 🔭 I’m currently working on **Swiggy Clone** (https://247food.netlify.app/)
+- 🔭 I’m currently working on **Swiggy Clone** (https://movie-application-s6ln.onrender.com/)
 
-- 🌱 I’m currently learning **Redux, Firebase, AWS**
+- 🌱 I’m currently learning **Redux-Saga, Firebase, AWS**
 
 - 👨‍💻 All of my projects are available at [https://subham1901.github.io/subham-portfolio/](https://subham1901.github.io/subham-portfolio/)
 
-- 💬 Ask me about **React, Node, Express, MongoDB**
+- 💬 Ask me about **React, Node, Express, MongoDB, Redux**
 
 - 📫 How to reach me **me.subham01@gmail.com**
 

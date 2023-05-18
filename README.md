@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">🚀 Language, Frameworks & Library 🔝</h3>
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[![portfolio](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
 https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999

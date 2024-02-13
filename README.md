@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham1901&label=Profile%20views&color=0e75b6&style=flat" alt="subham1901" /> </p>
 
-- 🔭 I’m currently working on **AR Pay - B2B Application** ([https://movie-application-s6ln.onrender.com/](https://github.com/Subham1901/AR-Pay))
+- 🔭 I’m currently working on **AR Pay - B2B Application** ([https://github.com/Subham1901/AR-Pay])
 
 - 👨‍💻 All of my projects are available at [https://subham1901.github.io/subham-portfolio/](https://subham1901.github.io/subham-portfolio/)
 
